@@ -1,3 +1,0 @@
-﻿  laba1.4.c
-C:\Users\nik\source\repos\laba1.4\laba1.4\laba1.4.c(19,7): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
-  laba1.4.vcxproj -> C:\Users\nik\source\repos\laba1.4\Debug\laba1.4.exe
